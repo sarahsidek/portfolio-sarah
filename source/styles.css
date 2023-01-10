@@ -1,0 +1,14 @@
+.big-title {
+   font-family: 'Roboto', sans-serif;
+}
+
+.remove-background-image{
+    background-color: transparent; 
+    border-width: inherit;
+}
+
+body {
+    background-color: #dddda8;
+    padding:0px;
+    margin:0px;
+}
